@@ -16,6 +16,7 @@
     height: calc(64px * 8);
     display: flex;
     flex-wrap: wrap;
+    border: 2px solid black;
 }
 
 .cell {
@@ -27,9 +28,9 @@
 }
 
 .black {
-    background-color: deepskyblue;
+    background-color: aliceblue;
 }
 
 .white {
-    background-color: #eed4ac;
+    background-color: #505050;
 }
