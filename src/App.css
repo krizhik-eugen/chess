@@ -40,3 +40,18 @@
 .white {
     background-color: #5d5d5d;
 }
+
+.selected {
+    background-color: #c0b175;
+}
+
+.available {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #58c068;
+}
+
+.available-step {
+    background: green;
+}
